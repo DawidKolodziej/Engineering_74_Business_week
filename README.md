@@ -74,4 +74,4 @@
 - Director
 - Analytical
 
-![Personality](‪‪./Engineering74/Personality.PNG)
+![Personality](‪‪./Personality.png)
