@@ -1,5 +1,5 @@
 
-## Repos
+## Repositories
 
 - Go to [Github](www.github.com) make a new repo
 - With your folder from before open in Bash
