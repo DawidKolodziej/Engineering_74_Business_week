@@ -57,5 +57,4 @@
 - Each has their own work ethic and style
 - Be on the same team
 
-
-![Personality](‪‪./Personality.PNG)
+![Personality](Personality.png)
