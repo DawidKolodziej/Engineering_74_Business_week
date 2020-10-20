@@ -74,4 +74,4 @@
 - Director
 - Analytical
 
-![Personality](‪‪./Personality.png)
+![Personality](‪‪./Personality.PNG)
